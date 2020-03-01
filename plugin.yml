@@ -1,0 +1,13 @@
+name: TimeChanger
+main: Robster858\TimeChanger\main
+version: 0.0.1
+api: 3.0.0
+author: Robster858
+commands:
+  day:
+   description: "Set the time to day"
+   permission: "time.cmd"
+   
+  night:
+   description: "Set the time to night"
+   permission: "time.cmd"
